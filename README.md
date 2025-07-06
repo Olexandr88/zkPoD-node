@@ -4,7 +4,7 @@
 
 **Available in [ [English](README.md) | [中文](README.zh.md) ]**
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#all-contributors)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Discord](https://img.shields.io/discord/586796918248570890.svg)](https://discord.gg/tfUH886)
 [![Build Status](https://travis-ci.org/sec-bit/zkPoD-node.svg?branch=master)](https://travis-ci.org/sec-bit/zkPoD-node)
