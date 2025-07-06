@@ -345,7 +345,7 @@ PoD-CR Protocol            |  PoD-AS Protocol      |  PoD-AS* Protocol
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-## Contributors ✨
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
